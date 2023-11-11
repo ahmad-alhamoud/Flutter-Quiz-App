@@ -1,16 +1,23 @@
-# study_app
+# Flutter-Quiz-App
 
-A new Flutter project.
+1. Work with firebase collections, documents and fields
 
-## Getting Started
+2. Firebase storage for uploading image
 
-This project is a starting point for a Flutter application.
+3. Read data from firebase
 
-A few resources to get you started if this is your first Flutter project:
+4. Firebase data upload batch operation
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+5. Firebase google sign in
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+6. Google auth before accessing data
+
+7. Upload user data to firebase
+
+8. Upload app Quiz score data to firebase
+
+9. Store data per user in firebase
+
+10. Take quiz for specific subject
+
+11. Light mode and dark mode
